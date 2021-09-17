@@ -6,7 +6,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Instructions
 
-To run the frontend just use `yarn` to install the dependencies and then `yarn start` (see below). To avoid having to ramp up the django backend you can set the `USE_MOCKS` flag in the `src/config.ts` file to `true`.
+To run the frontend just use `yarn` to install the dependencies and then `yarn start` (see below).\
+To avoid having to ramp up the django backend you can set the `USE_MOCKS` flag in the `src/config.ts` file to `true`.
 
 ## Available Scripts
 

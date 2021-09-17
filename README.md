@@ -24,5 +24,4 @@ Exposes `GET` & `POST` methods, the latter of which also accepts a list of brand
 
 ### `/api/bicycles`
 
-Exposes `GET` & `POST` methods, the latter of which also accepts a list of bicycles
-The `GET` also accepts `brand` as a query parameter to filter bicycles by brand id
+Exposes `GET` & `POST` methods, the latter of which also accepts a list of bicycles. The `GET` also accepts `brand` as a query parameter to filter bicycles by brand id
